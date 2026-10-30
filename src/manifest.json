@@ -1,0 +1,13 @@
+{
+  "name": "Maskmapy",
+  "short_name": "Maskmapy",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [{
+    "src": "assets/icon/icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "background_color": "#f7f8fb",
+  "theme_color": "#f7f8fb"
+}
