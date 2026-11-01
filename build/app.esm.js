@@ -1,0 +1,2 @@
+import{p as a,b as e}from"./p-66f52767.js";export{s as setNonce}from"./p-66f52767.js";import{g as r}from"./p-8a56bfa8.js";var m=()=>{const e=import.meta.url;const s={};if(e!==""){s.resourcesUrl=new URL(".",e).href}return a(s)};m().then((async a=>{await r();return e([["p-71f9bb35",[[1,"mask-map-generator",{theme:[32],channels:[32],errorMessage:[32],dimensions:[32]}],[1,"mask-map-channel",{label:[1],letter:[1],enabled:[4],hasImage:[4,"has-image"],image:[16],loading:[32]}]]]],a)}));
+//# sourceMappingURL=app.esm.js.map
